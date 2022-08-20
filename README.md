@@ -1,9 +1,8 @@
 # Burguer-Kenzie
 
-![image]({BadgeURLHere})
 My first project in react using API request and styled components
-![image]({https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white})
-![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
+[image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+[image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 # Getting Started
 
@@ -11,6 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
+- [Nodejs](https://nodejs.org/en/)
 - [Git](https://git-scm.com/downloads)
 
 ### Recommended
