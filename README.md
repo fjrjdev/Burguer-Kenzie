@@ -1,8 +1,8 @@
 # Burguer-Kenzie
 
 My first project in react using API request and styled components
-[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://reactjs.org/)
-[https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white](https://mui.com/)
+<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://reactjs.org/}" />
+<img src="{https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white](https://reactjs.org/}" />
 
 # Getting Started
 
